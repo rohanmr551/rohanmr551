@@ -1,4 +1,4 @@
-# 👋 Hey there — I’m Rohan (rohanmr551)
+# 👋 Hey there — I’m Rohan M R
 
 <h3 align="center">Software Engineer · Full-Stack Developer · AI & FinTech Enthusiast</h3>
 
