@@ -23,15 +23,11 @@
 
 ---
 ## 🏆 Trophies & Activity
-
 <p align="center">
-  <!-- Clickable GitHub profile trophy (using reliable proxy mirror) -->
-  <a href="https://github-profile-trophy.vercel.app/?username=rohanmr551" target="_blank">
-    <img src="https://github-profile-trophy-github-readme.vercel.app/?username=rohanmr551&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-  </a>
-
-  <!-- Streak / stats -->
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=rohanmr551&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=7" alt="GitHub Trophies" />
   <br/><br/>
+  <!-- Streak / stats -->
   <img src="https://streak-stats.demolab.com?user=rohanmr551&theme=tokyonight" alt="GitHub Streak" />
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=rohanmr551&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
@@ -39,7 +35,7 @@
   <!-- Top languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanmr551&layout=compact&theme=tokyonight" alt="Top Languages" />
   <br/><br/>
-  <!-- Contribution activity graph (new working endpoint) -->
+  <!-- Contribution activity graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohanmr551&theme=tokyo-night" alt="Activity Graph" />
 </p>
 
