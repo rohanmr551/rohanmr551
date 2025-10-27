@@ -27,7 +27,7 @@
 
 <p align="center">
   <!-- GitHub profile trophy -->
-  <img src="https://github-profile-trophy.vercel.app/?username=rohanmr551&theme=dark&row=1&column=4" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rohanmr551&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
 
   <!-- Streak / stats -->
   <br/><br/>
@@ -39,7 +39,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanmr551&layout=compact&theme=tokyonight" alt="Top Languages" />
   <br/><br/>
   <!-- Contribution activity graph -->
-  <img src="https://activity-graph.herokuapp.com/graph?username=rohanmr551&theme=github" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohanmr551&theme=tokyo-night" alt="Activity Graph" />
 </p>
 
 ---
