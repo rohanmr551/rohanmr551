@@ -26,8 +26,10 @@
 ## 🏆 Trophies & Activity
 
 <p align="center">
-  <!-- GitHub profile trophy -->
-  <img src="https://github-profile-trophy.vercel.app/?username=rohanmr551&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  <!-- Clickable GitHub profile trophy -->
+  <a href="https://github-profile-trophy.vercel.app/?username=rohanmr551" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=rohanmr551&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&cache_seconds=7200" alt="GitHub Trophies" />
+  </a>
 
   <!-- Streak / stats -->
   <br/><br/>
@@ -39,7 +41,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanmr551&layout=compact&theme=tokyonight" alt="Top Languages" />
   <br/><br/>
   <!-- Contribution activity graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohanmr551&theme=tokyo-night" alt="Activity Graph" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=rohanmr551&theme=github" alt="Activity Graph" />
 </p>
 
 ---
@@ -66,5 +68,3 @@
 
 ## ⚡ Fun Fact
 > “Code is like humor. When you have to explain it, it’s bad.” — Cory House
-
-Thanks for stopping by — star the repos you like ⭐
