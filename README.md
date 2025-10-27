@@ -3,14 +3,13 @@
 <h3 align="center">Software Engineer · Full-Stack Developer · AI & FinTech Enthusiast</h3>
 
 <p align="center">
-  <!-- Animated typing banner -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=24&pause=2000&color=61DAFB&background=0F172A00&width=720&lines=Building+data-driven+apps+%F0%9F%9A%80;Shipping+ML+pipelines+%F0%9F%A7%AF;Exploring+FinTech+and+AI+%F0%9F%92%BB" alt="Typing SVG"/>
 </p>
 
 ---
 
 ## 🚀 About Me
-- 💡 I'm a **software engineer** based in Bengaluru with a focus on building practical, data-driven applications.  
+- 💡 I'm a **Computer Science student** based in Bengaluru with a focus on building practical, data-driven applications.  
 - 🔭 Currently developing **PredictiFi** (stock prediction app) and an **AI chatbot** for business insights.  
 - 🌱 Passionate about **machine learning**, **distributed systems**, **fintech**, and building full-stack products that scale.
 
